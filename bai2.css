@@ -1,0 +1,31 @@
+
+.backgr{
+    background-color: rgb(167, 167, 167);
+    text-align: center;
+    font-family: sans-serif;
+    margin: auto;
+    width: 1000px;
+    height: 700px;
+}
+.text{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    transform: translate(125%,60%);
+}
+h3{
+    font-weight: 100;
+    color: black;
+}
+p{
+    color: black;
+    text-align-last: auto;
+}
+#button{
+    margin-top: 20px;
+}
+.button{
+    border-radius: 10%;
+    color: rgb(0, 0, 0);
+    background-color: aqua;
+}
