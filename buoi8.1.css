@@ -1,0 +1,31 @@
+* {
+    margin: -10;
+    padding: -10;
+}
+html, body {
+    height: 100%;
+}
+.container {
+    text-align: center;
+    height: 100%;
+}
+.header {
+    height: 20%;
+}
+.body {
+    display: flex;
+    height: 80%;
+    padding-top: 8px;
+}
+.left-sidebar {
+    width: 30%;
+}
+.content {
+    width: 70%;
+}
+.item { 
+    border: 1px solid rgba(0, 0, 0, 0.879);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

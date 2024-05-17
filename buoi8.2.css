@@ -1,0 +1,32 @@
+* {
+    margin: -10;
+    padding: -10;
+}
+.container{
+    display: flex;
+    height: 100px;
+}
+.header
+.footer {background-color: rgb(0, 148, 148);
+        height: 30px;}
+.body{
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    height: 100px;
+}
+.left-sidebar
+:right {
+    width: 30px;
+}
+.content{
+    background-color: rgb(255, 140, 0);
+    height: 40px;
+}
+.item{
+    margin: auto;
+    border: 1px solid color-mix(in hsl shorter hue, color percentage, color percentage);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
